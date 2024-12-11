@@ -1,0 +1,30 @@
+.search-results-page {
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .search-results-page h1 {
+    margin-bottom: 20px;
+  }
+  
+  .search-results-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .search-result-item {
+    width: 150px;
+    text-align: center;
+  }
+  
+  .search-result-item img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .search-result-item p {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
